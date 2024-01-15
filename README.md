@@ -23,4 +23,4 @@ The database file is not placed in the GitHub repository due to its large size.
 
 ## Simplified Solution
 
-A simplified solution for the query in Q4 is provided in R placed in the ’r_sql` folder.
+A simplified solution for the query in Q4 is provided in R placed in the `r_sql` folder.
